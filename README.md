@@ -1,9 +1,16 @@
-# self-driving-python
-SELF DRIVING CAR using NEAT Algorithm and Recurrent Neural networks
+# 2D SELF DRIVING CAR SIMULATOR
 
-you can also add your custom road track for this version of the code by uploading an image file 
-creating the track is by ....well simply drawing the track i guess :)
+![](/images/snap1.png)
+![](/images/snap2.png)
 
-but do make sure to use just black and white...
+Install the dependencies by executing the following command:
 
-HAPPY CODING!!!!
+```
+pip install -r requirements.txt
+```
+
+Run the game by executimg the following command:
+
+```
+python simulator.py
+```
